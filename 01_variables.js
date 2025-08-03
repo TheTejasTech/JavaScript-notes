@@ -8,6 +8,9 @@ accountMail="akjfh@gmail.com";
 accountCity="pune";
 console.log(accountId);
 console.table([accountId,accountMail,accountPassword,accountCity,accountState] );
+
+let muname="John"
+console.log("My name is "+muname)
 /* 
 const used to make a entitee permenant of not modified gives stored data in the o/p
 
